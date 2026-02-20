@@ -1,0 +1,6 @@
+{
+  "_comment": "Referencia — config viene de env vars en Railway.",
+  "BOT_TOKEN": "",
+  "OWNER_ID": 0,
+  "LOG_GROUP_ID": 0
+}
